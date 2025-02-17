@@ -1,0 +1,45 @@
+.post-input {
+  /* border: 2px solid black; */
+  color: #686868;
+  font-size: 45px;
+  font-weight: 400;
+  background: none;
+  border: none;
+  width: 100%;
+  margin-bottom: 1rem;
+  outline: none;
+  overflow-x: hidden;
+  overflow-y: auto;
+  min-height: 5em;
+  max-height: 50vh;
+}
+
+.character-limit {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.2px;
+  color: #4f4f4f;
+}
+
+.upload-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.2px;
+  color: #282828;
+  margin-bottom: 1rem;
+  text-decoration: underline;
+}
+
+.post-send {
+  color: #f9f9f9;
+  padding: 4px 8px 6px 8px;
+  border-radius: 5px;
+  background-color: green;
+}
+
+.discard {
+  padding: 4px 8px 6px 8px;
+  border-radius: 5px;
+}

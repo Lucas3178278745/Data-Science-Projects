@@ -1,0 +1,17 @@
+export const HOME = "/oldhome";
+export const REGISTER = "/register";
+export const LOGIN = "/login";
+export const RESOURCES = "/resources";
+export const USER = "/:userid/profile";
+export const PROMPT = "/prompt";
+export const HOMEVTWO = "/";
+export const REPORT = "/post/:postid/report";
+export const POSTDETAIL = "/post/:postid";
+export const INTERNALPROMPT = "/admin/prompt";
+export const INTERNALREPORT = "/admin/report";
+export const INTERNALREPORTPOSTDETAIL = "/admin/report/:postid";
+export const USERPOSTS = "/:userid/profile/posts";
+export const USERLIKES = "/:userid/profile/likes";
+export const USERCOMMENTS = "/:userid/profile/comments";
+export const ADMINPAGE = "/admin";
+export const ABOUT = "/about";

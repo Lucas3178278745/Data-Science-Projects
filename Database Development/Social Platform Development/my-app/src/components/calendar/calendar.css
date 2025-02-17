@@ -1,0 +1,12 @@
+.calendar-input {
+  padding-left: 2%;
+  border: 3px solid #282828;
+  width: 100%;
+}
+
+.calendar-button {
+  font-size: 30px;
+  font-weight: 500;
+  margin-top: 0.3rem;
+  transition: all 0.3s ease-in-out;
+}

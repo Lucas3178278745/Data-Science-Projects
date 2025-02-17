@@ -1,0 +1,2 @@
+### **Description**
+With this chart, you can select the different gaming platforms you want to know about their sales performance in different periods. You can observe some interesting trends. For example, You will find that the most popular gaming platforms ever are the PS2 and the Wii. You can also see when a new update is released for a particular platform, sales of the old version game drop rapidly, and, correspondingly, sales of the latest version of the game would rise until they reach another peak.

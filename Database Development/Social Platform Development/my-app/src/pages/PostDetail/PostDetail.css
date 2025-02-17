@@ -1,0 +1,273 @@
+.post-page-post-page {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-width: 390px;
+  position: relative;
+}
+
+.post-page-content {
+  align-items: center;
+  align-self: stretch;
+  background-color: #ece8d1;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 24px;
+  position: relative;
+}
+
+.post-page-logo {
+  height: 24px;
+  left: 32px;
+  position: absolute;
+  top: 69px;
+  width: 31px;
+}
+
+.mood-backing {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  margin-bottom: 1rem;
+  margin-top: 0.5rem;
+}
+
+.post-page-text-wrapper {
+  font-size: 23px;
+  font-weight: 400;
+  left: 325px;
+  position: absolute;
+  text-decoration: underline;
+  top: 69px;
+  white-space: nowrap;
+}
+
+.post-page-tag {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 0px 0px;
+  position: relative;
+}
+
+.post-page-div {
+  align-self: stretch;
+  font-size: 90px;
+  font-weight: 500;
+  line-height: 90px;
+  white-space: nowrap;
+}
+
+.ascii-reaction {
+  margin-bottom: 2rem;
+  font-size: 22px;
+}
+
+.border-circle {
+  margin-left: 5px;
+  font-size: 20px;
+  padding: 0 8px 0 8px;
+  border: 1px solid #686868;
+  border-radius: 10%;
+}
+
+.post-page-b {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  padding: 40px 0px 30px;
+  position: relative;
+}
+
+.post-page-don-t-eat-before-bed-just-finished-a-sandwich {
+  font-size: 45px;
+  font-weight: 500;
+  position: relative;
+  width: 350px;
+}
+
+.post-page-b-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 40px 0px 30px;
+  position: relative;
+  width: fit-content;
+}
+
+.post-page-p {
+  align-self: stretch;
+  font-size: 45px;
+  font-weight: 400;
+  position: relative;
+}
+
+.post-page-p-2 {
+  align-self: stretch;
+  font-size: 45px;
+  font-weight: 400;
+  margin-top: 10px;
+  position: relative;
+}
+
+.post-page-no-comments {
+  align-self: stretch;
+  font-size: 45px;
+  font-weight: 400;
+  position: relative;
+}
+
+.post-page-component {
+  height: 78px;
+  min-width: 341px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 2rem;
+  margin-top: 2rem;
+}
+
+.comment-box-component {
+  min-width: 341px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.post-page-component-two {
+  height: 78px;
+  margin-top: -8px;
+  min-width: 341px;
+  display: flex;
+  align-items: center;
+  padding-right: 2rem;
+  margin-top: 2rem;
+}
+
+.post-page-component-three {
+  height: 78px;
+  min-width: 341px;
+  display: flex;
+  align-items: center;
+  padding-right: 2rem;
+}
+
+.trash-icon {
+  margin-right: 5rem;
+}
+
+.comment-trash-icon {
+  width: 35px;
+  height: auto;
+}
+
+/* LEAVE THIS TO JULIUS */
+.post-image-attachment {
+  margin: 1rem 0 0 0;
+  /* height: 100%;
+  overflow: hidden;
+  position: relative; */
+}
+
+iframe {
+  width: 350px;
+  height: auto;
+  overflow: hidden;
+}
+
+.post-page-icon-heart {
+  height: 70px;
+  left: 9px;
+  position: absolute;
+  top: 3px;
+  width: 70px;
+}
+
+.post-page-icon-pencil {
+  height: 70px;
+  left: 250px;
+  position: absolute;
+  top: 4px;
+  width: 70px;
+}
+
+.post-page-p-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  padding: 40px 0px 30px;
+  position: relative;
+}
+
+.post-page-text-wrapper-2 {
+  align-self: stretch;
+  color: #686868;
+  font-size: 45px;
+  font-weight: 400;
+  position: relative;
+}
+
+.post-page-b-cat {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  padding: 40px 0px 170px;
+  position: relative;
+}
+
+.divider-small {
+  min-width: 390px;
+}
+
+.post-image {
+  margin-top: 2rem;
+}
+
+.editing-input {
+  outline: none;
+  color: #686868;
+  font-size: 45px;
+  font-weight: 400;
+  background: none;
+  border: none;
+  width: 80%;
+  margin-bottom: 2.5rem;
+}
+
+.commenting-input {
+  outline: none;
+  color: #686868;
+  font-size: 25px;
+  font-weight: 400;
+  background: none;
+  border: none;
+  width: 100%;
+  margin-top: 3rem;
+}
+
+.prompt-page-text-wrapper-4 {
+  font-size: 70px;
+  font-weight: 500;
+  line-height: 80px;
+}
+
+.save-button {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  color: #282828;
+  margin: 0.5rem 0;
+}
+
+.post-date-posted {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.2px;
+  color: #4f4f4f;
+  margin-top: 10px;
+}

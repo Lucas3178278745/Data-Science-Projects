@@ -1,0 +1,16 @@
+.upload-attachment {
+  /* border: 2px solid red; */
+  margin: 2rem 0;
+}
+
+.upload-attachment input {
+  margin: 1rem 0;
+  height: auto;
+  width: auto;
+}
+
+.upload-text {
+  font-weight: 400;
+  font-size: 20px;
+  color: #282828;
+}

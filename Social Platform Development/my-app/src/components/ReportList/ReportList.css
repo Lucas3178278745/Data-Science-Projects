@@ -1,0 +1,19 @@
+.admin-page-report-text-div {
+  align-self: stretch;
+  color: #a62f2f;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  white-space: nowrap;
+  text-decoration: underline;
+  margin-bottom: 2rem;
+}
+
+.date_posted {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.2px;
+  color: #4f4f4f;
+  margin-top: 1.3rem;
+}
