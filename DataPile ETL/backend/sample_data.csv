@@ -1,0 +1,13 @@
+Component,Supplier Name,Major Supplier,Website URL,Country of Headquarters,Other Products,Capabilities or Technologies,Known OEM Customers,Certifications,Other Products2,# Production Sites,# R&D Centers,Production Countries,Ownership Type,Major Investors / Parent
+Aluminium Wheels,Ronal Group,Yes,https://www.ronalgroup.com,Switzerland,Alloy Wheels,Lightweight design,Audi;BMW;VW,ISO 9001,Accessories,8,2,Germany;Switzerland,Private,
+Aluminium Wheels,BBS,Yes,https://www.bbs.com,Germany,Performance Wheels,Flow forming,Ford;Toyota,ISO 14001,Racing Wheels,3,1,Germany,Public,BBS Japan
+Active Bar,thyssenkrupp,Yes,https://www.thyssenkrupp-automotive-technology.com,Germany,Suspension Components,Active roll stabilization,BMW;Mercedes-Benz,ISO/TS 16949,Springs,10,3,Germany;USA,Public,thyssenkrupp AG
+Active Bar,ZF,Yes,https://www.zf.com,Germany,Chassis Systems,Electromechanical systems,Audi;Ford,ISO 9001,Steering Systems,20,5,Global,Private,Zeppelin Foundation
+Brake Pads,Brembo,Yes,https://www.brembo.com,Italy,Brake Rotors,High performance friction,Ferrari;Porsche,ISO 14001,Calipers,15,4,Global,Public,
+Fuel Injectors,Bosch,Yes,https://www.bosch.com,Germany,Sensors,Precision injection,GM;VW,ISO 9001,Spark Plugs,50,6,Global,Private,Robert Bosch Stiftung
+Steering Wheel,Nardi,No,https://www.nardi-personal.com,Italy,Shift Knobs,Craftsmanship,Alfa Romeo,ISO 9001,Racing Accessories,1,0,Italy,Private,
+Turbocharger,Garrett Motion,Yes,https://www.garrettmotion.com,USA,Electric Boosting,Turbo technology,BMW;Ford,ISO/TS 16949,Intercoolers,12,2,USA;China,Public,
+Battery Pack,CATL,Yes,https://www.catl.com,China,Lithium Cells,Battery management,Tesla;BMW,ISO 9001,Energy Storage,9,3,China,Public,
+Radiator,Denso,Yes,https://www.denso.com,Japan,HVAC Systems,Thermal management,Toyota;Honda,ISO 14001,AC Compressors,40,5,Global,Public,
+Air Filter,Mahle,Yes,https://www.mahle.com,Germany,Oil Filters,Filtration technology,Mercedes;VW,ISO 9001,Cabin Filters,30,4,Global,Private,Mahle Stiftung
+Shock Absorber,Monroe,Yes,https://www.monroe.com,USA,Suspension Struts,Damping expertise,GM;Ford,ISO/TS 16949,Mounting Kits,22,3,USA;Europe,Public,Tenneco
