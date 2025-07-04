@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>DataPile ETL</title>
+    <style>
+        table, th, td { border: 1px solid black; border-collapse: collapse; }
+        th, td { padding: 4px; }
+    </style>
+</head>
+<body>
+    <h1>DataPile ETL</h1>
+    <input type="text" id="component" placeholder="Component name" />
+    <button onclick="performSearch()">Search</button>
+    <button onclick="exportCSV()">Export CSV</button>
+    <div id="status"></div>
+    <table id="results"></table>
+<script src="script.js"></script>
+</body>
+</html>
